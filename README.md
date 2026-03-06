@@ -1,4 +1,4 @@
-# script-resumo-nfse-nacional
+# nfse-nacional-resumo
 
 Userscript para o [Portal Emissor Nacional de NFS-e](https://www.nfse.gov.br/EmissorNacional/Notas/Emitidas) que adiciona um botão de **Resumo de Notas**, gerando uma contagem e soma de valores agrupados por status para o período filtrado — funcionalidade não disponível nativamente no portal.
 
